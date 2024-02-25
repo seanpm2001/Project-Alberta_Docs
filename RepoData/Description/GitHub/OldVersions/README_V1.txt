@@ -1,0 +1,1 @@
+🇨🇦️🧠️🖥️🤢️📖️ Project Alberta is a series of studies regarding inbreeding in Artificial Intelligence, and seeing how inbred an AI system can get before it becomes zero (stops producing new content) with a timeline of each level of inbreeding (all documented) this is the official documentation source repository.
