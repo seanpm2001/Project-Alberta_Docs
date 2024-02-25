@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🇨🇦️🧠️🖥️🤢️📖️ Project Alberta is a series of studies regarding inbreeding in Artificial Intelligence, and seeing how inbred an AI system can get before it becomes zero (stops producing new content) with a timeline of each level of inbreeding (all documented) this is the official documentation source repository.
